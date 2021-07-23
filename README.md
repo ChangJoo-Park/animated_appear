@@ -10,7 +10,7 @@ Inspired by [Whatssub](https://whatssub.co/).
 
 ## Options
 
-- child : Widget  Widget for appear in. **required**
+- child : Widget for appear in. **required**
 - delay : Duration for delay.
 - duration : Duration for animate.
 - curve : Curve for animate.
