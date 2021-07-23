@@ -6,18 +6,16 @@ A Flutter widget for appear widget with animation.
 
 Inspired by [Wahtssub](https://whatssub.co/).
 
-<img src="example.gif" height=400 />
+<img src="https://github.com/ChangJoo-Park/animated_appear/raw/main/example.gif" height=400 />
 
 ## Options
 
-| Name             	| Type     	| Default          	| Description                     	|
-|------------------	|----------	|------------------	|---------------------------------	|
-| child            	| Widget   	| Required         	| Widget for appear in            	|
-| delay            	| Duration 	| 0 millisecond    	| Duration of delay               	|
-| duration         	| Duration 	| 200 milliseconds 	| Duration of animate             	|
-| slideBeginOffset 	| Offset   	| Offset.zero      	| Start offset of SlideTransition 	|
-| slideEndOffset   	| Offset   	| Offset.zero      	| End offset of SlideTransition   	|
-
+- child : <Widget>  Widget for appear in. **required**
+- delay : <Duration> for delay.
+- duration : <Duration> for animate.
+- curve : <Curve> for animate.
+- slideBeginOffset : <Offset> for SlideTransition.
+- slideEndOffset : <Offset> for SlideTransition.
 
 ## Installation
 
