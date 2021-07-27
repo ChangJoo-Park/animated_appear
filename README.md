@@ -4,7 +4,6 @@
 [![likes](https://badges.bar/animated_appear/likes)](https://pub.dev/packages/animated_appear/score) [![popularity](https://badges.bar/animated_appear/popularity)](https://pub.dev/packages/animated_appear) [![pub points](https://badges.bar/animated_appear/pub%20points)](https://pub.dev/packages/animated_appear/score) 
 
 
-
 # Animated Appear
 
 A Flutter widget for appear widget with animation.
